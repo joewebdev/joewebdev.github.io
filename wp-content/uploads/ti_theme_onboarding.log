@@ -1,0 +1,16 @@
+[10/Jun/2019:01:55:12] (ℹ️): WordPress Instance Info:
+[10/Jun/2019:01:55:12] (ℹ️): Home URL : http://localhost/agency/agency
+[10/Jun/2019:01:55:12] (ℹ️): Site URL : http://localhost/agency/agency
+[10/Jun/2019:01:55:12] (ℹ️): WordPress Version : 5.2.1
+[10/Jun/2019:01:55:12] (ℹ️): Onboarding Version : 1.4.1
+[10/Jun/2019:01:55:12] (ℹ️): Multisite : No
+[10/Jun/2019:01:55:12] (ℹ️): Server Info : Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38
+[10/Jun/2019:01:55:12] (ℹ️): PHP Version : 5.6.38
+[10/Jun/2019:01:55:12] (ℹ️): HTTPS : No
+[10/Jun/2019:01:55:12] (ℹ️): PHP Max Execution Time : 30
+[10/Jun/2019:01:55:12] (ℹ️): PHP Max Input Vars : 1000
+[10/Jun/2019:01:55:12] (ℹ️): Max Upload Size : 2097152
+[10/Jun/2019:01:55:12] (ℹ️): Plugins:
+[10/Jun/2019:01:55:12] (ℹ️): [PLUGIN] Elementor : v2.5.16 (Elementor.com)
+[10/Jun/2019:01:55:12] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.4 (Themeisle)
+[10/Jun/2019:01:55:12] (ℹ️): [PLUGIN] WPForms Lite : v1.5.2.3 (WPForms)
