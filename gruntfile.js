@@ -5,6 +5,10 @@ module.exports = function (grunt) {
             dist: {
                 files: {
                     'dist/css/tidy.css': ['web-development/index.html']
+                },
+                options: {
+                    htmlroot: 'C:/xampp/htdocs/joewebdev',
+                    stylesheets:['theme/assets/css/**/*.css']
                 }
             }
         },
