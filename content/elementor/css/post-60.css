@@ -1,15 +1,18 @@
 .elementor-60 .elementor-element.elementor-element-a04 > .elementor-container {max-width: 1140px;}
-.elementor-60 .elementor-element.elementor-element-a04:not(.elementor-motion-effects-element-type-background), .elementor-60 .elementor-element.elementor-element-a04 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("/ content/2019/06/contact-1.jpg");background-repeat: no-repeat;background-size: cover;}
-.elementor-60 .elementor-element.elementor-element-a04 > .elementor-background-overlay {background-color: #504992;opacity: .8;transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-60 .elementor-element.elementor-element-a04 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 200px 0px 200px 0px;}
-.elementor-60 .elementor-element.elementor-element-4617 > .elementor-element-populated {padding: 0px 0px 0px 80px;}
+.elementor-60 .elementor-element.elementor-element-a04 {overflow: hidden;transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 100px 5px 100px 0px;}
+.elementor-60 .elementor-element.elementor-element-a04:not(.elementor-motion-effects-element-type-background), .elementor-60 .elementor-element.elementor-element-a04 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #25274d;background-image: url("https://www.webreality.nyc/content/2019/06/19075-e1560224877373.jpg");background-position: top center;background-repeat: no-repeat;background-size: auto;}
+.elementor-60 .elementor-element.elementor-element-a04 > .elementor-background-overlay {background-color: transparent;background-image: linear-gradient(180deg,#25274d 0%,#2e9acc 100%);opacity: .8;transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-60 .elementor-element.elementor-element-a04 > .elementor-shape-bottom .elementor-shape-fill {fill: #fff;}
+.elementor-60 .elementor-element.elementor-element-a04 > .elementor-shape-bottom svg {width: calc(101% + 1.3px);height: 85px;}
+.elementor-60 .elementor-element.elementor-element-4617 > .elementor-element-populated {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 80px;}
 .elementor-60 .elementor-element.elementor-element-4058.elementor-widget-heading .elementor-heading-title {color: #fff;}
 .elementor-60 .elementor-element.elementor-element-4058 .elementor-heading-title {font-family: "Roboto Slab",Montserrat;font-size: 54px;line-height: 1.1em;letter-spacing: -1.4px;}
-.elementor-60 .elementor-element.elementor-element-65b1 {color: #fff;font-family: "Poppins",Montserrat;font-size: 16px;font-weight: 100;line-height: 1.9em;}
-.elementor-60 .elementor-element.elementor-element-65b1 > .elementor-widget-container {padding: 10px 0px 10px 0px;}
-.elementor-60 .elementor-element.elementor-element-6a96 a.elementor-button, .elementor-60 .elementor-element.elementor-element-6a96 .elementor-button {font-family: "Poppins",Montserrat;font-size: 15px;text-transform: uppercase;letter-spacing: 1.5px;background-color: #22b3a4;border-radius: 50px 50px 50px 50px;padding: 15px 50px 15px 50px;}
-.elementor-60 .elementor-element.elementor-element-6a96 a.elementor-button:hover, .elementor-60 .elementor-element.elementor-element-6a96 .elementor-button:hover, .elementor-60 .elementor-element.elementor-element-6a96 a.elementor-button:focus, .elementor-60 .elementor-element.elementor-element-6a96 .elementor-button:focus {color: #fff;background-color: rgba(0,0,0,0);border-color: #fff;}
-.elementor-60 .elementor-element.elementor-element-6a96 .elementor-button {border-style: solid;border-color: #22b3a4;}
+.elementor-60 .elementor-element.elementor-element-4058 > .elementor-widget-container {padding: 0px 150px 0px 0px;}
+.elementor-60 .elementor-element.elementor-element-64fbf1c .elementor-button .elementor-align-icon-right {margin-left: 4px;}
+.elementor-60 .elementor-element.elementor-element-64fbf1c .elementor-button .elementor-align-icon-left {margin-right: 4px;}
+.elementor-60 .elementor-element.elementor-element-64fbf1c a.elementor-button, .elementor-60 .elementor-element.elementor-element-64fbf1c .elementor-button {font-size: 18px;font-weight: 400;letter-spacing: 0px;background-color: #25274d;border-radius: 50px 50px 50px 50px;padding: 15px 50px 15px 50px;}
+.elementor-60 .elementor-element.elementor-element-64fbf1c a.elementor-button:hover, .elementor-60 .elementor-element.elementor-element-64fbf1c .elementor-button:hover, .elementor-60 .elementor-element.elementor-element-64fbf1c a.elementor-button:focus, .elementor-60 .elementor-element.elementor-element-64fbf1c .elementor-button:focus {color: #25274d;background-color: rgba(97,206,112,.9);}
+.elementor-60 .elementor-element.elementor-element-64fbf1c .elementor-button {box-shadow: 0px 0px 4px 0px rgba(0,0,0,.5);}
 .elementor-60 .elementor-element.elementor-element-19e9 > .elementor-container {max-width: 1140px;}
 .elementor-60 .elementor-element.elementor-element-19e9:not(.elementor-motion-effects-element-type-background), .elementor-60 .elementor-element.elementor-element-19e9 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
 .elementor-60 .elementor-element.elementor-element-19e9 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 20px 0px 0px 0px;}
@@ -108,8 +111,13 @@ body.elementor-page-60 h1.entry-title, .elementor-page-title {display: none;}
 	.elementor-60 .elementor-element.elementor-element-3672 {padding: 100px 25px 100px 25px;}
 	.elementor-60 .elementor-element.elementor-element-19d4 > .elementor-widget-container {padding: 15px 0px 0px 0px;}}
 @media (min-width:1025px) {.elementor-60 .elementor-element.elementor-element-a04:not(.elementor-motion-effects-element-type-background), .elementor-60 .elementor-element.elementor-element-a04 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-attachment: fixed;}}
-@media (max-width:767px) {.elementor-60 .elementor-element.elementor-element-a04 {padding: 30px 0px 30px 0px;}
-	.elementor-60 .elementor-element.elementor-element-4617 > .elementor-element-populated {padding: 30px 30px 30px 30px;}
+@media (max-width:767px) {.elementor-60 .elementor-element.elementor-element-a04:not(.elementor-motion-effects-element-type-background), .elementor-60 .elementor-element.elementor-element-a04 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://www.webreality.nyc/content/2019/06/FFFFFF-0.png");}
+	.elementor-60 .elementor-element.elementor-element-a04 > .elementor-shape-bottom svg {width: calc(100% + 1.3px);height: 69px;}
+	.elementor-60 .elementor-element.elementor-element-a04 {margin-top: 0px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
+	.elementor-60 .elementor-element.elementor-element-4617 > .elementor-element-populated {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+	.elementor-60 .elementor-element.elementor-element-4058 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+	.elementor-60 .elementor-element.elementor-element-64fbf1c a.elementor-button, .elementor-60 .elementor-element.elementor-element-64fbf1c .elementor-button {padding: 14px 26px 14px 26px;}
+	.elementor-60 .elementor-element.elementor-element-64fbf1c > .elementor-widget-container {padding: 0px 0px 0px 0px;}
 	.elementor-60 .elementor-element.elementor-element-19e9 {padding: 30px 30px 60px 30px;}
 	.elementor-60 .elementor-element.elementor-element-2bed .elementor-icon-box-icon {margin-bottom: 69px;}
 	.elementor-60 .elementor-element.elementor-element-2bed .elementor-icon-box-title {margin-bottom: 14px;}
