@@ -4,11 +4,11 @@ module.exports = function (grunt) {
         uncss:{
             dist: {
                 files: {
-                    'dist/css/tidy.css': ['web-development/index.html']
+                    'dist/css/tidy.css': ['index.html']
                 },
                 options: {
-                    htmlroot: 'C:/xampp/htdocs/joewebdev',
-                    stylesheets:['theme/assets/css/**/*.css']
+                    htmlroot: './',
+                    ignoreSheets: [/fonts.googleapis/],
                 }
             }
         },
