@@ -28,13 +28,13 @@
 .elementor-60 .elementor-element.elementor-element-2bed .elementor-icon-box-content .elementor-icon-box-title {color: #000;font-family: "Roboto Slab",Montserrat;font-size: 41px;font-weight: 600;line-height: .5em;letter-spacing: -.8px;}
 .elementor-60 .elementor-element.elementor-element-2bed .elementor-icon-box-content .elementor-icon-box-description {color: #000;font-size: 16px;font-weight: 400;line-height: 2.2em;}
 .elementor-60 .elementor-element.elementor-element-2cb3 {text-align: right;}
-.elementor-60 .elementor-element.elementor-element-2cb3 .elementor-image img {max-width: 86%;}
+.elementor-60 .elementor-element.elementor-element-2cb3 .elementor-image img {max-width: 86%;filter: brightness(100%) contrast(100%) saturate(40%) blur(0px) hue-rotate(0deg);}
 .elementor-60 .elementor-element.elementor-element-45f29ee > .elementor-container {max-width: 1140px;}
 .elementor-60 .elementor-element.elementor-element-45f29ee:not(.elementor-motion-effects-element-type-background), .elementor-60 .elementor-element.elementor-element-45f29ee > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
 .elementor-60 .elementor-element.elementor-element-45f29ee {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 20px 0px 20px 0px;}
 .elementor-60 .elementor-element.elementor-element-45f29ee > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-60 .elementor-element.elementor-element-f344e38 {text-align: right;}
-.elementor-60 .elementor-element.elementor-element-f344e38 .elementor-image img {max-width: 86%;}
+.elementor-60 .elementor-element.elementor-element-f344e38 .elementor-image img {max-width: 86%;filter: brightness(100%) contrast(100%) saturate(40%) blur(0px) hue-rotate(0deg);}
 .elementor-60 .elementor-element.elementor-element-f344e38 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
 .elementor-60 .elementor-element.elementor-element-68eec1a.elementor-view-stacked .elementor-icon {background-color: #29648a;}
 .elementor-60 .elementor-element.elementor-element-68eec1a.elementor-view-framed .elementor-icon, .elementor-60 .elementor-element.elementor-element-68eec1a.elementor-view-default .elementor-icon {color: #29648a;border-color: #29648a;}
@@ -77,7 +77,7 @@
 .elementor-60 .elementor-element.elementor-element-19d4 .gallery {margin: 0 -10px -10px 0;}
 .elementor-60 .elementor-element.elementor-element-19d4 .gallery-item img {border-radius: 0px 0px 0px 0px;}
 .elementor-60 .elementor-element.elementor-element-19d4 .gallery-item .gallery-caption {display: none;}
-.elementor-60 .elementor-element.elementor-element-19d4 > .elementor-widget-container {padding: 0px 0px 0px 0px;}
+.elementor-60 .elementor-element.elementor-element-19d4 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
 .elementor-60 .elementor-element.elementor-element-19d4 {width: 100%;max-width: 100%;align-self: center;}
 .elementor-60 .elementor-element.elementor-element-adbd2ed > .elementor-container {max-width: 645px;}
 .elementor-60 .elementor-element.elementor-element-17c8438.elementor-column .elementor-column-wrap {align-items: flex-start;}
