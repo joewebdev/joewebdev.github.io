@@ -1,17 +1,18 @@
-[11/Jun/2019:01:09:39] (ℹ️): WordPress Instance Info:
-[11/Jun/2019:01:09:39] (ℹ️): Home URL : http://localhost/agency/agency
-[11/Jun/2019:01:09:39] (ℹ️): Site URL : http://localhost/agency/agency
-[11/Jun/2019:01:09:39] (ℹ️): WordPress Version : 5.2.1
-[11/Jun/2019:01:09:39] (ℹ️): Onboarding Version : 1.4.1
-[11/Jun/2019:01:09:39] (ℹ️): Multisite : No
-[11/Jun/2019:01:09:39] (ℹ️): Server Info : Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38
-[11/Jun/2019:01:09:39] (ℹ️): PHP Version : 5.6.38
-[11/Jun/2019:01:09:39] (ℹ️): HTTPS : No
-[11/Jun/2019:01:09:39] (ℹ️): PHP Max Execution Time : 30
-[11/Jun/2019:01:09:39] (ℹ️): PHP Max Input Vars : 1000
-[11/Jun/2019:01:09:39] (ℹ️): Max Upload Size : 2097152
-[11/Jun/2019:01:09:39] (ℹ️): Plugins:
-[11/Jun/2019:01:09:39] (ℹ️): [PLUGIN] Elementor : v2.5.16 (Elementor.com)
-[11/Jun/2019:01:09:39] (ℹ️): [PLUGIN] WP2Static : v6.6.5 (Leon Stafford)
-[11/Jun/2019:01:09:39] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.4 (Themeisle)
-[11/Jun/2019:01:09:39] (ℹ️): [PLUGIN] WPForms Lite : v1.5.2.3 (WPForms)
+[12/Jun/2019:15:52:16] (ℹ️): WordPress Instance Info:
+[12/Jun/2019:15:52:16] (ℹ️): Home URL : http://localhost/agency/agency
+[12/Jun/2019:15:52:16] (ℹ️): Site URL : http://localhost/agency/agency
+[12/Jun/2019:15:52:16] (ℹ️): WordPress Version : 5.2.1
+[12/Jun/2019:15:52:16] (ℹ️): Onboarding Version : 1.4.1
+[12/Jun/2019:15:52:16] (ℹ️): Multisite : No
+[12/Jun/2019:15:52:16] (ℹ️): Server Info : Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38
+[12/Jun/2019:15:52:16] (ℹ️): PHP Version : 5.6.38
+[12/Jun/2019:15:52:16] (ℹ️): HTTPS : No
+[12/Jun/2019:15:52:16] (ℹ️): PHP Max Execution Time : 30
+[12/Jun/2019:15:52:16] (ℹ️): PHP Max Input Vars : 1000
+[12/Jun/2019:15:52:16] (ℹ️): Max Upload Size : 2097152
+[12/Jun/2019:15:52:16] (ℹ️): Plugins:
+[12/Jun/2019:15:52:16] (ℹ️): [PLUGIN] Elementor : v2.5.16 (Elementor.com)
+[12/Jun/2019:15:52:16] (ℹ️): [PLUGIN] Envato Elements : v1.0.6 (Envato)
+[12/Jun/2019:15:52:16] (ℹ️): [PLUGIN] WP2Static : v6.6.5 (Leon Stafford)
+[12/Jun/2019:15:52:16] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.4 (Themeisle)
+[12/Jun/2019:15:52:16] (ℹ️): [PLUGIN] WPForms Lite : v1.5.2.3 (WPForms)
